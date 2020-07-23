@@ -1,0 +1,245 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(11): warning C4083: expected 'constant'; found identifier '_STL_WARNING_LEVEL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(12): warning C4083: expected ')'; found identifier '_STL_DISABLED_WARNINGS'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(19): error C2146: syntax error: missing ';' before identifier '_STD_BEGIN'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(25): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(25): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring_insert.h(70): warning C4159: #pragma pack(pop,...): has popped previously pushed identifier '_CRT_PACKING'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(14): warning C4083: expected 'constant'; found identifier '_STL_WARNING_LEVEL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(15): warning C4083: expected ')'; found identifier '_STL_DISABLED_WARNINGS'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(16): error C2146: syntax error: missing ';' before identifier '_STL_RESTORE_CLANG_WARNINGS'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(28): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(28): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): error C2059: syntax error: '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(80): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(80): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(129): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(129): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(129): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(129): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(129): error C2374: 'basic_istream': redefinition; multiple initialization
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'basic_istream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(129): error C2059: syntax error: '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(132): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(132): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(139): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(139): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(139): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(139): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(139): error C2374: 'basic_istream': redefinition; multiple initialization
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'basic_istream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(139): error C2059: syntax error: '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(142): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(142): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(149): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(149): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(149): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(149): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(149): error C2374: 'basic_istream': redefinition; multiple initialization
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'basic_istream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(149): error C2059: syntax error: '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(153): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(153): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(160): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(160): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(160): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(160): error C2374: 'basic_istream': redefinition; multiple initialization
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'basic_istream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(160): error C2059: syntax error: '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(163): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(163): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(170): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(170): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(170): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(170): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(170): error C2059: syntax error: '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(173): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(173): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(179): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(179): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(179): error C2143: syntax error: missing ',' before '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(182): error C2065: 'errno': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(183): error C2065: '_Str': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(186): error C2065: '_CSTD': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(186): error C2146: syntax error: missing ';' before identifier 'strtol'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(186): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(186): error C2065: '_Base': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(186): error C3861: 'strtol': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(188): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(189): error C3861: '_Xinvalid_argument': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(190): error C2065: 'ERANGE': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(190): error C2065: 'INT_MIN': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(190): error C2065: 'INT_MAX': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(191): error C3861: '_Xout_of_range': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(192): error C2065: '_Idx': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(193): error C2065: '_Idx': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(193): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(197): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(197): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(197): error C2143: syntax error: missing ',' before '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(200): error C2065: 'errno': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(201): error C2065: '_Str': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(204): error C2065: '_CSTD': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(204): error C2146: syntax error: missing ';' before identifier 'strtol'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(204): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(204): error C2065: '_Base': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(204): error C3861: 'strtol': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(206): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(207): error C3861: '_Xinvalid_argument': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(208): error C2065: 'ERANGE': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(209): error C3861: '_Xout_of_range': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(210): error C2065: '_Idx': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(211): error C2065: '_Idx': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(211): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(215): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(215): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(215): error C2143: syntax error: missing ',' before '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(218): error C2065: 'errno': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(219): error C2065: '_Str': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(222): error C2065: '_CSTD': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(222): error C2146: syntax error: missing ';' before identifier 'strtoul'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(222): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(222): error C2065: '_Base': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(222): error C3861: 'strtoul': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(224): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(225): error C3861: '_Xinvalid_argument': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(226): error C2065: 'ERANGE': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(227): error C3861: '_Xout_of_range': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(228): error C2065: '_Idx': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(229): error C2065: '_Idx': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(229): error C2065: '_Eptr': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(233): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(233): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(233): error C2143: syntax error: missing ',' before '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(236): error C2065: 'errno': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(237): error C2065: '_Str': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(240): error C2065: '_CSTD': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\string(240): fatal error C1003: error count exceeds 100; stopping compilation
+  Primality.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(9): warning C4083: expected 'constant'; found identifier '_STL_WARNING_LEVEL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(10): warning C4083: expected ')'; found identifier '_STL_DISABLED_WARNINGS'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(28): error C2146: syntax error: missing ';' before identifier '_STD_BEGIN'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): error C2146: syntax error: missing ';' before identifier 'ostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): error C2146: syntax error: missing ';' before identifier 'cout'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(30): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(30): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(30): error C2146: syntax error: missing ';' before identifier 'ostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(30): error C2086: 'int ostream': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'ostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(30): error C2146: syntax error: missing ';' before identifier 'cerr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(31): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(31): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(31): error C2146: syntax error: missing ';' before identifier 'ostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(31): error C2086: 'int ostream': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'ostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(31): error C2146: syntax error: missing ';' before identifier 'clog'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(33): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(33): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(33): error C2146: syntax error: missing ';' before identifier 'wistream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(33): error C2146: syntax error: missing ';' before identifier 'wcin'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): error C2146: syntax error: missing ';' before identifier 'wostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): error C2146: syntax error: missing ';' before identifier 'wcout'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(35): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(35): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(35): error C2146: syntax error: missing ';' before identifier 'wostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(35): error C2086: 'int wostream': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): note: see declaration of 'wostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(35): error C2146: syntax error: missing ';' before identifier 'wcerr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(36): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(36): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(36): error C2146: syntax error: missing ';' before identifier 'wostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(36): error C2086: 'int wostream': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(34): note: see declaration of 'wostream'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(36): error C2146: syntax error: missing ';' before identifier 'wclog'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(39): error C2079: '_Winit' uses undefined class '_CRTIMP2_PURE_IMPORT'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(40): error C2059: syntax error: 'public'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(42): error C2588: '::~_Winit': illegal global destructor
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(42): error C3865: '__thiscall': can only be used on native member functions
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(42): error C2365: '_Winit': redefinition; previous definition was 'data variable'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(39): note: see declaration of '_Winit'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(43): error C2059: syntax error: 'private'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(44): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(44): error C2086: 'int __PURE_APPDOMAIN_GLOBAL': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of '__PURE_APPDOMAIN_GLOBAL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(45): error C2059: syntax error: '}'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\iostream(45): error C2143: syntax error: missing ';' before '}'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(9): warning C4083: expected 'constant'; found identifier '_STL_WARNING_LEVEL'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(10): warning C4083: expected ')'; found identifier '_STL_DISABLED_WARNINGS'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(11): error C2146: syntax error: missing ';' before identifier '_STL_RESTORE_CLANG_WARNINGS'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(21): error C2059: syntax error: 'public'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(22): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(22): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(457): error C2065: 'basic_stringbuf': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(457): error C2275: '_Traits': illegal use of this type as an expression
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(455): note: see declaration of '_Traits'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(457): error C2065: '_Left': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(458): error C2065: 'basic_stringbuf': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(458): error C2275: '_Traits': illegal use of this type as an expression
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(455): note: see declaration of '_Traits'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(458): error C2065: '_Right': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(458): error C2182: 'swap': illegal use of type 'void'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(457): error C7525: inline variables require at least '/std:c++17'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(457): error C3861: 'basic_stringbuf': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(457): error C3861: '_Left': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(458): error C3861: 'basic_stringbuf': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(458): error C3861: '_Right': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(459): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(468): error C3861: 'basic_istream': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(543): note: see reference to class template instantiation 'basic_istringstream<_Elem,_Traits,_Alloc>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(468): error C2143: syntax error: missing ',' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(471): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(471): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(471): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(473): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(473): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(473): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(474): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(474): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(474): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(476): error C2653: 'ios_base': is not a class or namespace name
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(476): error C2061: syntax error: identifier 'openmode'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(482): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(482): error C2143: syntax error: missing ',' before '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(526): error C3646: '_Mysb': unknown override specifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(526): error C2143: syntax error: missing ';' before '*'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(526): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(527): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(531): error C3646: '_Mystr': unknown override specifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(531): error C3646: 'str': unknown override specifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(531): error C2059: syntax error: '('
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(532): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(536): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(536): error C2143: syntax error: missing ',' before '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(542): error C3646: '_Stringbuffer': unknown override specifier
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(542): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\sstream(543): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information
